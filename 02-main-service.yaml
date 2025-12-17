@@ -6,7 +6,7 @@ spec:
   selector:
     purpose: blue-green
     project: roboshop
-    color: green
+    color: blue
   ports:
     - protocol: TCP
       port: 80 # service port
